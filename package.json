@@ -4,7 +4,7 @@
   "description": "create vant cli app demo",
   "main": "index.js",
   "bin": {
-    "create-vant-cli-app": "./lib/index.js"
+    "create-vant-cli-app-demo": "./lib/index.js"
   },
   "scripts": {
     "dev": "tsc --watch",
